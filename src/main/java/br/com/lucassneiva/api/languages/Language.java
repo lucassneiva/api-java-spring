@@ -13,7 +13,7 @@ public class Language {
 
     public Language() {}
     
-    public Language(String title, String img, int ranking) {
+    public Language(String title, String img, Integer ranking) {
         this.title = title;
         this.img = img;
         this.ranking = ranking;
